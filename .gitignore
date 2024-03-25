@@ -1,3 +1,10 @@
 .assets
 .idea
 .vscode
+
+
+
+#zb 
+venv
+__pycache__
+*.pyc
